@@ -17,6 +17,8 @@ import dataclasses  # importa somente as funções do módulo sy.dataclasses
 # Devem estar na pasto do projeto\site-package\..  para que ao gerar o executável,estejam todos na mesma pasta e subpasta
 # Exemplo> projeto\site-packages\matplotlib
 
+A=input('ola:')
+print (A)
 
 
 
